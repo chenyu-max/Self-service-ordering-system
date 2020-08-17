@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\project\chenyu\</FILEPATH>
+      <FILENAME>Admin.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 Admin::num。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>Admin::{ctor}</FUNCTION>
+    <DECORATED>??0Admin@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Admin::num</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

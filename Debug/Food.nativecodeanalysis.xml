@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\project\chenyu\</FILEPATH>
+      <FILENAME>Food.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 Food::discount。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>Food::{ctor}</FUNCTION>
+    <DECORATED>??0Food@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Food::discount</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\project\chenyu\</FILEPATH>
+      <FILENAME>Food.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 Food::price。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>Food::{ctor}</FUNCTION>
+    <DECORATED>??0Food@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Food::price</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

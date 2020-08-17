@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\project\chenyu\</FILEPATH>
+      <FILENAME>Client.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 Client::id。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>Client::{ctor}</FUNCTION>
+    <DECORATED>??0Client@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Client::id</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\project\chenyu\</FILEPATH>
+      <FILENAME>Client.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 Client::coust。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>Client::{ctor}</FUNCTION>
+    <DECORATED>??0Client@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Client::coust</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\project\chenyu\</FILEPATH>
+      <FILENAME>Client.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 Client::desk。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>Client::{ctor}</FUNCTION>
+    <DECORATED>??0Client@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Client::desk</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\project\chenyu\</FILEPATH>
+      <FILENAME>Client.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 Client::type。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>Client::{ctor}</FUNCTION>
+    <DECORATED>??0Client@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Client::type</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\project\chenyu\</FILEPATH>
+      <FILENAME>Client.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 Client::num。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>Client::{ctor}</FUNCTION>
+    <DECORATED>??0Client@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Client::num</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\project\chenyu\</FILEPATH>
+      <FILENAME>Client.cpp</FILENAME>
+      <LINE>135</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>算术溢出: 使用 4 字节值上的运算符 - ，然后将结果转换到 8 字节值。在调用运算符 - 之前将值强制转换为宽类型可避免溢出(io.2)。</DESCRIPTION>
+    <FUNCTION>Client::changeNum</FUNCTION>
+    <DECORATED>?changeNum@Client@@QAEXXZ</DECORATED>
+    <FUNCLINE>128</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
